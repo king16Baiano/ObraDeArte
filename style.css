@@ -1,16 +1,4 @@
-body{
-    margin: 0;
-    padding-top: 5rem;
+body {
+    background-image: url(https://i.pinimg.com/1200x/56/61/c7/5661c78532cb9c2a92e7624b8e09d121.jpg);
 }
 
-.titulo-01{
-  position: fixed;   
-  top: 0;            
-  left: 0;
-  width: 100%;       
-  margin: 0;
-  padding: 1rem;
-  box-sizing: border-box;
-  text-align: center; 
-  background: white; 
-}
