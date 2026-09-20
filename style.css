@@ -1,7 +1,6 @@
-body {
-    background-image: url(https://i.pinimg.com/1200x/56/61/c7/5661c78532cb9c2a92e7624b8e09d121.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-}
-
+    body {
+        background-image: url("https://i.pinimg.com/1200x/56/61/c7/5661c78532cb9c2a92e7624b8e09d121.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+    }
