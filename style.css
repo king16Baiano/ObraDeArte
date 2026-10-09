@@ -1,3 +1,8 @@
     body {
         background-color: #111823;
     }
+
+    .textos {
+        color: aliceblue;
+        font-size: 20px;
+    }
